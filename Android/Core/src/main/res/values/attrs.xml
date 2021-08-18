@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="loader_view">
+    <attr name="width_weight" format="float" />
+    <attr name="height_weight" format="float" />
+    <attr name="use_gradient" format="boolean" />
+    <attr name="corners" format="integer" />
+    <attr name="custom_color" format="color" />
+  </declare-styleable>
+</resources>
